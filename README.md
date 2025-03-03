@@ -16,7 +16,9 @@ Order Processing & Product Catalog: Orders contain multiple products, requiring 
 Inventory Management & Fulfillment Centers: Each product is stocked in different micro-fulfillment centers, enabling real-time stock level updates and supply chain optimization.
 
 Delivery & Logistics: Orders are assigned to available drivers, and tracking is maintained via the Delivery table, ensuring efficient dispatch and customer notifications.
-![image](https://github.com/user-attachments/assets/590c0c5d-3551-44b6-ab18-8a97db2ed115)
+
+![image](https://github.com/user-attachments/assets/bf8970ad-a5dd-4848-aa3e-266ce2b70404)
+
 
 
 The Relational Schema converts these business processes into a structured SQL-compatible format, implementing primary and foreign key constraints to enforce data integrity and streamline operational efficiency.
