@@ -65,6 +65,9 @@ What are the top-selling products?
 What is the order history and total spending of a specific customer?
 - Identifying active delivery drivers ensures efficient order fulfillment and route optimization.
 
+  ![image](https://github.com/user-attachments/assets/ae2cbbda-5305-4026-89cc-7e3cb9eb8dc5)
+
+
 ## Recommendations
 ### For GoPuff’s Business Strategy:
 Automate Inventory Replenishment: Implement automated restocking alerts based on real-time stock levels to prevent stockouts and reduce excess inventory.
